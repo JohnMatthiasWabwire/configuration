@@ -22,6 +22,7 @@
 - https://github.com/topics/compiler
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
+- https://github.com/topics/dart
 - https://github.com/topics/database
 - https://github.com/topics/data-structures
 - https://github.com/topics/design-system
@@ -112,6 +113,7 @@
 - https://github.com/topics/webm
 - https://github.com/topics/web-assembly
 - https://github.com/topics/web-authentication
+- https://github.com/topics/web-browser
 - https://github.com/topics/web-driver
 - https://github.com/topics/web-socket
 - https://github.com/topics/web-transport

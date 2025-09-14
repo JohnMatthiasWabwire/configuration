@@ -30,7 +30,6 @@
 - https://github.com/system76
 - https://github.com/servo
 - https://github.com/hostinger
-- https://github.com/boostorg
 - https://github.com/pulseaudio
 - https://github.com/openssl
 - https://github.com/prometheus
@@ -83,7 +82,6 @@
 - https://github.com/RustCrypto
 - https://github.com/linux-pam
 - https://github.com/go-task
-- https://github.com/abseil
 - https://github.com/dependabot
 - https://github.com/ziglang
 - https://github.com/envoyproxy

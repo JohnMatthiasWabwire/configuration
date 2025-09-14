@@ -2,8 +2,6 @@
 
 - https://learn.microsoft.com/en-us/cpp/
 - https://clang.llvm.org/docs/index.html
-- https://abseil.io/docs/cpp/
-- https://www.boost.org/doc/user-guide/index.html
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn
