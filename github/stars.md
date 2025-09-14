@@ -5,6 +5,10 @@
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/DragonFlyBSD/DragonFlyBSD
+- https://github.com/freebsd/freebsd-src
+- https://github.com/NetBSD/src
+- https://github.com/openbsd/src
 - https://github.com/rust-embedded/critical-section
 - https://github.com/rust-embedded/linux-embedded-hal
 - https://github.com/rust-embedded/rust-i2cdev
@@ -14,7 +18,6 @@
 - https://github.com/linux-pam/linux-pam
 - https://github.com/NetworkManager/NetworkManager
 - https://github.com/pulseaudio/pulseaudio
-- https://github.com/redox-os/kernel
 - https://github.com/tukaani-project/xz
 - https://github.com/nih-at/libzip
 - https://github.com/libarchive/libarchive
@@ -32,7 +35,6 @@
 - https://github.com/uutils/findutils
 - https://github.com/uutils/util-linux
 - https://github.com/trifectatechfoundation/sudo-rs
-- https://github.com/9fans/plan9port
 - https://github.com/openssh/openssh-portable
 - https://github.com/systemd/systemd
 - https://github.com/sudo-project/sudo

@@ -12,6 +12,7 @@
 - https://github.com/topics/arduino
 - https://github.com/topics/ast
 - https://github.com/topics/binary-search
+- https://github.com/topics/bsd
 - https://github.com/topics/build-system
 - https://github.com/topics/bgp
 - https://github.com/topics/c
@@ -28,6 +29,7 @@
 - https://github.com/topics/design-system
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
+- https://github.com/topics/docker
 - https://github.com/topics/espressif
 - https://github.com/topics/event-queue
 - https://github.com/topics/file-manager
@@ -67,6 +69,7 @@
 - https://github.com/topics/parser
 - https://github.com/topics/pcm
 - https://github.com/topics/png
+- https://github.com/topics/podman
 - https://github.com/topics/programming-language
 - https://github.com/topics/queue
 - https://github.com/topics/raspberry-pi

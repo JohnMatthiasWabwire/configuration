@@ -20,8 +20,12 @@
 - https://git-lfs.com/
 - https://systemd.io/
 - https://openssh.com/
+- https://rsync.samba.org/documentation.html
 - https://publications.opengroup.org/
-- https://p9f.org/
+- https://www.dragonflybsd.org/docs/
+- https://docs.freebsd.org/en/
+- https://netbsd.org/docs/
+- https://www.openbsd.org/
 - https://learn.microsoft.com/en-us/windows/win32/api/
 - https://riscv.org/specifications/ratified/
 - https://bluetooth.com/specifications/specs/

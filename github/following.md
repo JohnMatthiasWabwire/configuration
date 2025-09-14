@@ -7,11 +7,15 @@
 - https://github.com/Kitware
 - https://github.com/sparkfun
 - https://github.com/postgres
+- https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
 - https://github.com/minio
 - https://github.com/FFmpeg
+- https://github.com/freebsd
+- https://github.com/openbsd
+- https://github.com/NetBSD
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
@@ -54,7 +58,6 @@
 - https://github.com/hyperium
 - https://github.com/letsencrypt
 - https://github.com/espressif
-- https://github.com/9fans
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
@@ -70,7 +73,6 @@
 - https://github.com/KDE
 - https://github.com/pciutils
 - https://github.com/NetworkManager
-- https://github.com/redox-os
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/tree-sitter
@@ -96,7 +98,6 @@
 - https://github.com/firecracker-microvm
 - https://github.com/sqlite
 - https://github.com/starship
-- https://github.com/SerenityOS
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/c3lang
@@ -108,7 +109,6 @@
 - https://github.com/zigtools
 - https://github.com/helix-editor
 - https://github.com/advanced-security
-- https://github.com/plan9foundation
 - https://github.com/lima-vm
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
