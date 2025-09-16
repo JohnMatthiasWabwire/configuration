@@ -21,6 +21,7 @@
 - https://github.com/topics/cache
 - https://github.com/topics/carbon
 - https://github.com/topics/compiler
+- https://github.com/topics/cpu
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
 - https://github.com/topics/dart
@@ -38,7 +39,9 @@
 - https://github.com/topics/git
 - https://github.com/topics/graph
 - https://github.com/topics/glsl
+- https://github.com/topics/gpu
 - https://github.com/topics/go
+- https://github.com/topics/hard-drive
 - https://github.com/topics/http
 - https://github.com/topics/http-proxy
 - https://github.com/topics/imap
@@ -60,6 +63,7 @@
 - https://github.com/topics/mpeg
 - https://github.com/topics/mov
 - https://github.com/topics/nat
+- https://github.com/topics/nas
 - https://github.com/topics/object-storage
 - https://github.com/topics/odin
 - https://github.com/topics/opengl
@@ -67,16 +71,16 @@
 - https://github.com/topics/orchestrator
 - https://github.com/topics/package-manager
 - https://github.com/topics/parser
-- https://github.com/topics/pcm
 - https://github.com/topics/png
 - https://github.com/topics/podman
 - https://github.com/topics/programming-language
 - https://github.com/topics/queue
+- https://github.com/topics/ram
 - https://github.com/topics/raspberry-pi
 - https://github.com/topics/riscv
 - https://github.com/topics/relational
 - https://github.com/topics/renderer
-- https://github.com/topics/router
+- https://github.com/topics/http-router
 - https://github.com/topics/rust
 - https://github.com/topics/scanner
 - https://github.com/topics/scheduler
