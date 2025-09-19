@@ -20,7 +20,7 @@
 - https://git-lfs.com/
 - https://systemd.io/
 - https://openssh.com/
-- https://rsync.samba.org/documentation.html
+- https://curl.se/docs/
 - https://publications.opengroup.org/
 - https://www.dragonflybsd.org/docs/
 - https://docs.freebsd.org/en/
