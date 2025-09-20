@@ -5,6 +5,7 @@
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/time-rs/time
 - https://github.com/DragonFlyBSD/DragonFlyBSD
 - https://github.com/freebsd/freebsd-src
 - https://github.com/NetBSD/src
@@ -23,7 +24,6 @@
 - https://github.com/libarchive/libarchive
 - https://github.com/rustls/rustls
 - https://github.com/pendulum-project/statime
-- https://github.com/pendulum-project/ntpd-rs
 - https://github.com/pciutils/pciutils
 - https://github.com/rust-lang/flate2-rs
 - https://github.com/rust-lang/git2-rs

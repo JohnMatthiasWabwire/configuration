@@ -102,6 +102,7 @@
 - https://github.com/canonical
 - https://github.com/c3lang
 - https://github.com/sudo-project
+- https://github.com/time-rs
 - https://github.com/FrameworkComputer
 - https://github.com/cli
 - https://github.com/carbon-language
@@ -116,7 +117,6 @@
 - https://github.com/oven-sh
 - https://github.com/tigerbeetle
 - https://github.com/tukaani-project
-- https://github.com/pendulum-project
 - https://github.com/LadybirdBrowser
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
