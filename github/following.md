@@ -34,7 +34,6 @@
 - https://github.com/system76
 - https://github.com/servo
 - https://github.com/hostinger
-- https://github.com/pulseaudio
 - https://github.com/openssl
 - https://github.com/prometheus
 - https://github.com/openstax
@@ -86,9 +85,9 @@
 - https://github.com/go-task
 - https://github.com/dependabot
 - https://github.com/ziglang
+- https://github.com/linux-mobile-broadband
 - https://github.com/envoyproxy
 - https://github.com/kata-containers
-- https://github.com/harfbuzz
 - https://github.com/odin-lang
 - https://github.com/rust-cli
 - https://github.com/rustwasm
@@ -117,6 +116,7 @@
 - https://github.com/oven-sh
 - https://github.com/tigerbeetle
 - https://github.com/tukaani-project
+- https://github.com/pendulum-project
 - https://github.com/LadybirdBrowser
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
