@@ -57,7 +57,8 @@
     "ed", 
     "sed", 
     "nano", 
-    "podman", 
+    "podman",
+    "docker" 
     "openssh", 
     "ffmpeg", 
     "imagemagick"

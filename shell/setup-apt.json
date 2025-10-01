@@ -111,6 +111,7 @@
     "sed", 
     "nano",
     "podman",
+    "docker"
     "openssh-client", 
     "openssh-server", 
     "ffmpeg", 
