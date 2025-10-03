@@ -20,7 +20,6 @@
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
 - https://github.com/google
-- https://github.com/libarchive
 - https://github.com/godaddy
 - https://github.com/KhronosGroup
 - https://github.com/dart-lang
@@ -68,7 +67,6 @@
 - https://github.com/go-gitea
 - https://github.com/desktop
 - https://github.com/unicode-org
-- https://github.com/traefik
 - https://github.com/KDE
 - https://github.com/pciutils
 - https://github.com/NetworkManager
