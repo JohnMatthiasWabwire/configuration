@@ -1,7 +1,7 @@
 # Forks
 
-- https://github.com/AbdhilahiRWabwire/configuration
-- https://github.com/AbdhilahiRWabwire/specification
-- https://github.com/AbdhilahiRWabwire/tools-utilities
-- https://github.com/AbdhilahiRWabwire/web-service
+- https://github.com/JohnMatthiasWabwire/configuration
+- https://github.com/JohnMatthiasWabwire/specification
+- https://github.com/JohnMatthiasWabwire/tools-utilities
+- https://github.com/JohnMatthiasWabwire/web-service
 
