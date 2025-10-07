@@ -5,7 +5,6 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/Kitware
-- https://github.com/sparkfun
 - https://github.com/postgres
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
@@ -61,11 +60,11 @@
 - https://github.com/redhat-developer
 - https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
+- https://github.com/serde-rs
 - https://github.com/seaweedfs
 - https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/go-gitea
-- https://github.com/desktop
 - https://github.com/unicode-org
 - https://github.com/KDE
 - https://github.com/pciutils
@@ -113,6 +112,7 @@
 - https://github.com/dragonflydb
 - https://github.com/oven-sh
 - https://github.com/tigerbeetle
+- https://github.com/toml-rs
 - https://github.com/tukaani-project
 - https://github.com/pendulum-project
 - https://github.com/LadybirdBrowser
