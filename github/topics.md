@@ -6,6 +6,7 @@
 - https://github.com/topics/arm64
 - https://github.com/topics/arm32
 - https://github.com/topics/aiff
+- https://github.com/topics/av1
 - https://github.com/topics/avif
 - https://github.com/topics/authentication
 - https://github.com/topics/authorization
@@ -41,6 +42,7 @@
 - https://github.com/topics/glsl
 - https://github.com/topics/gpu
 - https://github.com/topics/go
+- https://github.com/topics/h264
 - https://github.com/topics/hard-drive
 - https://github.com/topics/http
 - https://github.com/topics/http-proxy
