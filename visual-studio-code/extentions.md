@@ -2,7 +2,6 @@
 
 ## Extentions
 
-- C3
 - ClangD
 - CMake
 - Container Tools
@@ -30,5 +29,4 @@
 - Serial Port Monitor
 - XML
 - YAML
-- Zig
 
