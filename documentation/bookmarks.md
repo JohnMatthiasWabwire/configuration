@@ -2,6 +2,8 @@
 
 - https://learn.microsoft.com/en-us/cpp/
 - https://clang.llvm.org/docs/index.html
+- https://dart.dev/docs
+- https://pub.dev/packages
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn

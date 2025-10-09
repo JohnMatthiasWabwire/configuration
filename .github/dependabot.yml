@@ -1,3 +1,5 @@
+version: 2
+
 updates:
   - package-ecosystem: "github-actions"
     commit-message:
@@ -8,4 +10,3 @@ updates:
       interval: "weekly"
       time: "03:00"
     
-version: 2
