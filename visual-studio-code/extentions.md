@@ -6,13 +6,8 @@
 - CMake
 - Container Tools
 - Dart
-- Development Containers
 - Docker
 - Docker DX
-- GitHub Actions
-- GitHub Issue Notebooks
-- GitHub Pull Requests
-- GitHub Repositories
 - Go
 - Hex Editor
 - Kubernetes
@@ -21,8 +16,8 @@
 - Makefile
 - MLIR
 - Postgres
-- SSH
-- SSH Configuration
+- Remote SSH
+- Remote SSH Configuration
 - Remote Explorer
 - Remote Repositories
 - Rust
