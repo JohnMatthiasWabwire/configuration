@@ -10,9 +10,6 @@
 
 - https://github.com/AstroNvim/AstroNvim
 - https://github.com/folke/lazy.nvim
-- https://github.com/folke/snacks.nvim
-- https://github.com/folke/trouble.nvim
-- https://github.com/folke/which-key.nvim
 - https://github.com/LazyVim/LazyVim
 - https://github.com/LunarVim/LunarVim
 - https://github.com/mason-org/mason.nvim
