@@ -16,6 +16,7 @@
 [NVIM]: https://neovim.io/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
+[QEMU VM]: https://qemu.org/
 [Raspberry Micro]: https://www.raspberrypi.com/
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
@@ -42,7 +43,7 @@ Development Environment Configuration
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
 
-- **_Virtual Machines:_** [Firecracker][Firecracker VM], [Lima][Lima VM]
+- **_Virtual Machines:_** [Firecracker][Firecracker VM], [Lima][Lima VM], [QEMU][QEMU VM]
 
 - **_Version Control Systems:_** [Git][Git Repositories]
 
