@@ -9,6 +9,7 @@ export PATH=$PATH:/usr/bin/arduino
 export PATH=$PATH:/usr/bin/dart-sdk/bin
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/go/pkg/tool/bin
+export PATH=$PATH:/usr/bin/flutter/bin
 export PATH=$PATH:/usr/bin/helix
 export PATH=$PATH:/usr/bin/hyaena-technologies
 export PATH=$PATH:/usr/bin/hyaena-database
