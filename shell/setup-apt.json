@@ -13,8 +13,6 @@
     "postgresql", 
     "postgresql-common", 
     "postgresql-common-dev", 
-    "mariadb-client", 
-    "mariadb-server", 
     "sqlite3", 
     "sqlite3-doc", 
     "sqlite3-tools",

@@ -2,8 +2,6 @@
   "libraries": [
     "postgresql17-server", 
     "sqlite", 
-    "mariadb", 
-    "mariadb-server",
     "libzip", 
     "liblzma-dev", 
     "gzip", 

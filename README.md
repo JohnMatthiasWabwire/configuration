@@ -12,7 +12,6 @@
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
 [Lima VM]: https://lima-vm.io/
-[Maria Database]: https://mariadb.org/
 [Minio Database]: https://min.io/
 [NVIM]: https://neovim.io/
 [Postgres Database]: https://www.postgresql.org/
@@ -21,9 +20,11 @@
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
 [Rust Language]: https://rust-lang.org/
+[SQLite Database]: https://sqlite.org/
 [SeaweedFS Database]: https://seaweedfs.com/
 [Surreal Database]: https://surrealdb.com/
 [TigerBeetle Database]: https://tigerbeetle.com/
+[Turso Database]: https://turso.tech/
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
 
@@ -53,7 +54,7 @@ Development Environment Configuration
 
 - **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
 
-- **_Relational:_** [Maria][Maria Database], [Postgres][Postgres Database]
+- **_Relational:_** [Postgres][Postgres Database], [SQLite][SQLite Database], [Turso][Turso Database]
 
 - **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 

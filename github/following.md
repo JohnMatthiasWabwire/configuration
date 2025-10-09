@@ -39,7 +39,6 @@
 - https://github.com/libusb
 - https://github.com/ubuntu
 - https://github.com/digitalocean
-- https://github.com/MariaDB
 - https://github.com/uutils
 - https://github.com/rust-lang
 - https://github.com/microsoft
@@ -116,6 +115,7 @@
 - https://github.com/tukaani-project
 - https://github.com/pendulum-project
 - https://github.com/LadybirdBrowser
+- https://github.com/tursodatabase
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/trifectatechfoundation
