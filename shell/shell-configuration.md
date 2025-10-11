@@ -5,7 +5,6 @@
 ```shell
 # User specific environment
 export PATH=$PATH:/usr/bin
-export PATH=$PATH:/usr/bin/arduino
 export PATH=$PATH:/usr/bin/dart-sdk/bin
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/go/pkg/tool/bin
@@ -22,7 +21,6 @@ export PATH=$PATH:/usr/local/bin
 export PATH=$PATH:/usr/local/include
 export PATH=$PATH:/usr/local/lib
 export PATH=$PATH:~/.cargo/bin
-export PATH=$PATH:~/arduino-ide
 export PATH=$PATH:~/blender
 export PATH=$PATH:~/VSCode
 ```
